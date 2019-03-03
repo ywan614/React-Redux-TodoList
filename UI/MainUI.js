@@ -45,13 +45,6 @@ const MainUI = (props)=>{
                     
                 )}
             />
-            {/* <ul>
-               {props.todos.map((item,index)=>{
-                    return <div key = {index}>
-                        <li >{item}<Button type = "danger" shape = "circle" size = "small" icon = "delete" ghost onClick = {props.deleteItem.bind(this,index)}/></li>
-                        </div>
-                })}
-            </ul> */}
         </Fragment>
     )
 }
