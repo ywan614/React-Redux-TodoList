@@ -1,7 +1,6 @@
 # React-Redux-TodoList
-Demo
-示范图
-(![img](https://github.com/ywan614/React-Redux-TodoList/blob/master/setgQfmqr8.gif))
+示范图  
+![img](https://github.com/ywan614/React-Redux-TodoList/blob/master/setgQfmqr8.gif)
 
 
 主要使用了使用了react-Redux框架, AntDesign渲染
